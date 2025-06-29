@@ -1,5 +1,6 @@
 # IBM SkillsBuild assignments
-IBM SkillsBuild Assignments (Data Science - ![FUNDAE](https://www.fundae.es/ResourcePackages/Fundae/assets/dist/images/logo_fundae.svg))
+IBM SkillsBuild Assignments (Data Science)
+![FUNDAE](https://www.fundae.es/ResourcePackages/Fundae/assets/dist/images/logo_fundae.svg))
 
 I am writing to express my sincere gratitude to [FUNDAE](https://www.fundae.es/) for the generous funding of my scholarship. Your support has made a significant impact on my educational journey, allowing me to pursue my studies with greater focus and determination.
 
