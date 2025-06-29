@@ -22,8 +22,14 @@ Introduction to data science
   This project consist in 2 parts:  
   1. We extract the stock price of Tesla, Inc. (TSLA) from Yahoo Finance using the yfinance module. Additionally, we utilize BeautifulSoup to scrape and refine the data extraction process.
   2. Next, we performed various computations and transformations using Pandas to analyze and visualize stock prices, allowing for effective comparisons within the stock market.
+
 - [Final Project: Classification with Python](ML0101EN_SkillUp_FinalAssignment.jupyterlite.ipynb)   
 In this project, we implemented several fundamental machine learning algorithms for classification, including Linear Regression, K-Nearest Neighbors (KNN), Decision Trees, Logistic Regression, and Support Vector Machines (SVM).
+
+- [Assignment: Notebook for Graded Assessment](mod5-final-project-v2.ipynb)   
+The assignment involves socio-economic data from the city of Chicago. We load three datasets into separate tables within a SQLite database and execute SQL queries to address the questions posed in the assignment.
+
+
  
 
 ## Installation
