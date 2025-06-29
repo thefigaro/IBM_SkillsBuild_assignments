@@ -8,8 +8,9 @@ I truly appreciate the opportunity that provided me, and I am committed to makin
 
 Warm regards,
 
-## Table of Contents
-Introduction to data science 
+* To read this document in Spanish, please click on the link -> [LEAME_ESPAÑOL_CASTELLANO.md](LEAME.md)
+
+## Introduction to data science 
 - [Data Science Tools and Ecosystem](DataScienceEcosystem.ipynb)   
   An introduction to the uses and features of Jupyter Notebook
 - [Project: House Sales in King County, USA](House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite.ipynb)   
@@ -28,6 +29,11 @@ In this project, we implemented several fundamental machine learning algorithms 
 
 - [Assignment: Notebook for Graded Assessment](mod5-final-project-v2.ipynb)   
 The assignment involves socio-economic data from the city of Chicago. We load three datasets into separate tables within a SQLite database and execute SQL queries to address the questions posed in the assignment.
+
+## Data Science Capstone
+-[SpaceX Falcon 9 first stage Landing Prediction](Data%20Science%20Capstone/01_SpaceX_Data_Collection_API.ipynb)
+In this capstone project, we aim to predict whether the Falcon 9 first stage will land successfully. SpaceX advertises its Falcon 9 rocket launches at a cost of $62 million, significantly lower than other providers, which charge upwards of $165 million per launch. A substantial portion of these savings is attributed to SpaceX's ability to reuse the first stage of the rocket. By accurately predicting the success of the first stage landing, we can gain insights into the overall cost-effectiveness of a launch.
+
 
 
  
