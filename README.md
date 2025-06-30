@@ -66,7 +66,7 @@ In the previous exploratory data analysis labs, you have visualized the SpaceX l
   + Mark the success/failed launches for each site on the map
   + Calculate the distances between a launch site to its proximities
 
--  [Making a interactive Visual dashboard](Data%20Science%20Capstone/07_SpaceX_Interactive_Visual_Analytics_Plotly.py)  
+-  [Making a Interactive Visual Dashboard](Data%20Science%20Capstone/07_SpaceX_Interactive_Visual_Analytics_Plotly.py)  
 In our analysis of rocket launches, we utilize Plotly and Dash to create interactive visualizations that effectively illustrate the relationships between different launching features. Plotly, a powerful graphing library, allows us to generate a variety of dynamic charts and graphs, making it easy to visualize complex data. Dash, a web application framework built on top of Plotly, enables us to build interactive dashboards that allow users to explore the data in real-time. By integrating these tools, we can analyze key features such as launch dates, rocket types, payload capacities, and success rates. Users can interact with the visualizations, filtering data and adjusting parameters to gain insights into trends and patterns in rocket launches.
 
 - [Assignment: Machine Learning Prediction](Data%20Science%20Capstone/08_SpaceX_Predictive_Analytics.ipynb)  
@@ -75,7 +75,7 @@ We perform exploratory Data Analysis and determine Training Labels by:
   * Standardize the data columns
   * Spliting training data and test data
 
-- [Final Report with insigths and recomendation](Data%20Science%20Capstone/SpaceX_capstone-coursera_report_rfigueroa.pdf)  
+- [Final Report with Insigths and Conlusions](Data%20Science%20Capstone/SpaceX_capstone-coursera_report_rfigueroa.pdf)  
 Finally, we compile a comprehensive summary report that outlines the key insights and results from our analysis of X Space's rocket launches. This report highlights significant trends, performance metrics, and factors influencing launch success, providing a clear understanding of the operational effectiveness and strategic implications for future missions.
 
 **(*)As a final note**: We encourage you to copy and experiment with the provided Python code in this repository. This hands-on approach will help you deepen your understanding of the concepts we've covered. Learning by example is an effective and ethical way to reinforce your knowledge and clarify any areas that may be less familiar. However, please ensure that you do not engage in plagiarism when seeking certification. Use this code as a learning tool to enhance your skills. Happy coding :muscle:!
