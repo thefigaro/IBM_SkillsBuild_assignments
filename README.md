@@ -19,6 +19,7 @@ Truly thanks,
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](http://https://sqlite.org/)
 
 </div>
+</br>
 
 ## Introduction to data science 
 - [Data Science Tools and Ecosystem](DataScienceEcosystem.ipynb)   
@@ -88,4 +89,5 @@ We perform exploratory Data Analysis and determine Training Labels by:
 - [Final Report with Insigths and Conlusions](Data%20Science%20Capstone/SpaceX_capstone-coursera_report_rfigueroa.pdf)  
 Finally, we compile a comprehensive summary report that outlines the key insights and results from our analysis of X Space's rocket launches. This report highlights significant trends, performance metrics, and factors influencing launch success, providing a clear understanding of the operational effectiveness and strategic implications for future missions.
 
-**(*)As a final note**: We encourage you to copy and experiment with the provided Python code in this repository. This hands-on approach will help you deepen your understanding of the concepts we've covered. Learning by example is an effective and ethical way to reinforce your knowledge and clarify any areas that may be less familiar. However, please ensure that you do not engage in plagiarism when seeking certification. Use this code as a learning tool to enhance your skills. Happy coding :muscle:!
+**(*)As a final note**: We encourage you to copy and experiment with the provided Python code in this repository. This hands-on approach will help you deepen your understanding of the concepts we've covered. Learning by example is an effective and ethical way to reinforce your knowledge and clarify any areas that may be less familiar. However, please ensure that you do not engage in plagiarism when seeking certification. Use this code as a learning tool to enhance your skills.</br></br>
+Happy coding :muscle:!
