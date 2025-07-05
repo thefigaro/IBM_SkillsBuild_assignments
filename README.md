@@ -9,6 +9,15 @@ I truly appreciate the opportunity that provided me, and I am committed to makin
 Truly thanks,
 
 * To read this document in Spanish, please click on the link -> [LEAME_ESPAÑOL_CASTELLANO.md](LEAME.md)
+<div align="center">
+  
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](http://python.org)
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](http://https://sqlite.org/)
+
+</div>
 
 ## Introduction to data science 
 - [Data Science Tools and Ecosystem](DataScienceEcosystem.ipynb)   
