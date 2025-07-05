@@ -8,7 +8,8 @@ I truly appreciate the opportunity that provided me, and I am committed to makin
 
 Truly thanks,
 
-* To read this document in Spanish, please click on the link -> [LEAME_ESPAÑOL_CASTELLANO.md](LEAME.md)
+(*) To read this document in Spanish, please click on the link -> [LEAME_ESPAÑOL_CASTELLANO.md](LEAME.md)
+
 <div align="center">
   
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
