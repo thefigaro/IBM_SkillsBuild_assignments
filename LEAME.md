@@ -1,8 +1,8 @@
 "# IBM SkillsBuild Assignments **En Revisión**
 Asignaciones de IBM SkillsBuild (Ciencia de Datos)
-[![FUNDAE](https://www.fundae.es/ResourcePackages/Fundae/assets/dist/images/logo_fundae.svg)](https://www.fundae.es/)
+![](https://www.fundae.es/ResourcePackages/Fundae/assets/dist/images/logo_fundae.svg)
 
-Escribo para expresar mi sincero agradecimiento a [FUNDAE](https://www.fundae.es/) por la generosa financiación de este curso. Su apoyo ha tenido un impacto significativo en mi trayectoria educativa.
+Escribo para expresar mi sincero agradecimiento a [eFUNDAE](https://www.efundae.es/) por la generosa financiación de este curso. Su apoyo ha tenido un impacto significativo en mi trayectoria educativa.
 Aprecio significativamente la oportunidad que me brindaron, y estoy comprometido a aprovechar al máximo esta oportunidad. Gracias una vez más por su confianza en mi potencial y por su apoyo invaluable.
 
 Muchísimas gracias,
